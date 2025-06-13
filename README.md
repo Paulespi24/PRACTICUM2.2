@@ -17,9 +17,9 @@ Este proyecto analiza la similitud semántica entre las carreras universitarias 
 ├── src/
 │   └── similitud_carreras_utpl.py
 ├── powerbi/
-│   └── dashboard.pbix
+│   └── dashboard UTPL.pbix
 ├── docs/
-│   ├── Informe_Similitud_Carreras_Tablas.docx
+│   ├── Informe.docx
 │   └── Capturas/
 ├── README.md
 ```
