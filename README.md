@@ -78,7 +78,7 @@ Este proyecto analiza la similitud semántica entre las carreras universitarias 
 
 ```bash
 # Instalar dependencias
-pip install pandas openpyxl sentence-transformers rapidfuzz
+pip install pandas openpyxl sentence-transformers
 
 # Ejecutar análisis semántico
 python src/similitud_carreras_utpl.py
